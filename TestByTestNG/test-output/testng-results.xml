@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-17T23:20:44 BDT" name="Default suite" finished-at="2023-08-17T23:20:45 BDT" duration-ms="61">
+    <groups>
+    </groups>
+    <test started-at="2023-08-17T23:20:44 BDT" name="Default test" finished-at="2023-08-17T23:20:45 BDT" duration-ms="61">
+      <class name="testNG.logInTest">
+        <test-method signature="loginTest()[pri:1, instance:testNG.logInTest@1b1426f4]" started-at="2023-08-17T23:20:45 BDT" name="loginTest" finished-at="2023-08-17T23:20:45 BDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="logoutTest()[pri:2, instance:testNG.logInTest@1b1426f4]" started-at="2023-08-17T23:20:45 BDT" name="logoutTest" finished-at="2023-08-17T23:20:45 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+      </class> <!-- testNG.logInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
